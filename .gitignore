@@ -22,7 +22,7 @@
 /scp-progress
 config.h
 default_options_guard.h
-localoptions.h
+# localoptions.h
 Makefile
 tags
 .pytest*
@@ -31,3 +31,4 @@ tags
 /test/init/
 /test/fakekey
 .vscode/
+.DS_Store
